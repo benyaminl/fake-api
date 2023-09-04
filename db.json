@@ -21,5 +21,23 @@
         {"id": 6, "name": "lokal"},
         {"id": 7, "name": "investigasi"},
         {"id": 8, "name": "hiburan"}
+    ],
+    "headline": [
+        {"id": 1, "title": "Headline 1"},
+        {"id": 2, "title": "Headline 1"},
+        {"id": 3, "title": "Headline 1"},
+        {"id": 4, "title": "Headline 1"}
+    ],
+    "coba": [
+        {"id": 1, "title": "Headline 1"},
+        {"id": 2, "title": "Headline 1"},
+        {"id": 3, "title": "Headline 1"},
+        {"id": 4, "title": "Headline 1"}
+    ],
+    "main": [
+        {"id": 1, "title": "Headline 1"},
+        {"id": 2, "title": "Headline 1"},
+        {"id": 3, "title": "Headline 1"},
+        {"id": 4, "title": "Headline 1"}
     ]
 }
