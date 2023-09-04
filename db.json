@@ -1,0 +1,25 @@
+{
+    "users": [
+        {"id": 1, "name" : "Botak 1", "email": "botak@salt.id", "fullName": "Botako Batako PUTIH"},
+        {"id": 2, "name" : "Botak 2", "email": "botak@salt.id", "fullName": "Botako Batako PUTIH"},
+        {"id": 3, "name" : "Botak 3", "email": "botak@salt.id", "fullName": "Botako Batako PUTIH"},
+        {"id": 4, "name" : "Botak 4", "email": "botak@salt.id", "fullName": "Botako Batako PUTIH"}
+    ],
+    "news": [
+        {"id": 1, "name": "News 1", "publishedAt": "2023-09-04 08:30:35", "tags": ["politik", "nasional"]},
+        {"id": 2, "name": "News 2", "publishedAt": "2023-09-04 08:30:35", "tags": ["lokal", "selebriti"]},
+        {"id": 3, "name": "News 3", "publishedAt": "2023-09-04 08:30:35", "tags": ["mainan", "investigasi"]},
+        {"id": 4, "name": "News 4", "publishedAt": "2023-09-04 08:30:35", "tags": ["hiburan"]},
+        {"id": 5, "name": "News 5", "publishedAt": "2023-09-04 08:30:35", "tags": ["ekonomi"]}
+    ],
+    "tags": [
+        {"id": 1, "name": "politik"},
+        {"id": 2, "name": "ekonomi"},
+        {"id": 3, "name": "mainan"},
+        {"id": 4, "name": "selebriti"},
+        {"id": 5, "name": "nasional"},
+        {"id": 6, "name": "lokal"},
+        {"id": 7, "name": "investigasi"},
+        {"id": 8, "name": "hiburan"}
+    ]
+}
