@@ -24,20 +24,8 @@
     ],
     "headline": [
         {"id": 1, "title": "Headline 1"},
-        {"id": 2, "title": "Headline 1"},
-        {"id": 3, "title": "Headline 1"},
-        {"id": 4, "title": "Headline 1"}
-    ],
-    "coba": [
-        {"id": 1, "title": "Headline 1"},
-        {"id": 2, "title": "Headline 1"},
-        {"id": 3, "title": "Headline 1"},
-        {"id": 4, "title": "Headline 1"}
-    ],
-    "main": [
-        {"id": 1, "title": "Headline 1"},
-        {"id": 2, "title": "Headline 1"},
-        {"id": 3, "title": "Headline 1"},
-        {"id": 4, "title": "Headline 1"}
+        {"id": 2, "title": "Headline 2"},
+        {"id": 3, "title": "Headline 3"},
+        {"id": 4, "title": "Headline 4"}
     ]
 }
